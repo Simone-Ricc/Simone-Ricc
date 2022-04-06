@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Simone Riccio
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cyber tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning cybersecurity at University "La Statale" in Milan
+- 💞️ I hope to become a penetration tester
+- 📫 How to reach me? you can't
 
 <!---
 Simone-Ricc/Simone-Ricc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
